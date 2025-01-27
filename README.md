@@ -16,32 +16,46 @@ Here are some ideas to get you started:
 -->
 
 circle 0: 
-  [Libft] (https://github.com/Jeremy-coquet/libft)
+
+  [libft](https://github.com/Jeremy-coquet/libft)
   
 circle 1:
-  [Get_next_line]
-  [Ft_printf]
-  [Born2beroot]
+
+  [get_next_line](https://github.com/Jeremy-coquet/Get_next_line)
+
+  [ft_printf](https://github.com/Jeremy-coquet/Ft_printf)
   
 circle 2:
-  [Push_swap]
-  [Minitalk]
-  [Fract-ol]
+  
+  [push_swap](https://github.com/Jeremy-coquet/push_swap)
+  
+  [minitalk](https://github.com/Jeremy-coquet/minitalk)
+  
+  [fract-ol](https://github.com/Jeremy-coquet/fract-ol)
   
 circle 3:
-  [Philosophers]
+  
+  [Philosophers](https://github.com/Jeremy-coquet/Philosophers)
+  
   [Minishell]
   
 circle 4:
+  
   [NetPractice]
-  [Cub3d]
-  [CPP 00 - 04]
+  
+  [Cub3d](https://github.com/Jeremy-coquet/Cub3d)
+  
+  [CPP 00 - 04](https://github.com/Jeremy-coquet/CPP00-04)
 
 circle 5:
-  [Ft_irc]
-  [Inception]
-  [CPP 05-09]
+  
+  [ft_irc](https://github.com/Jeremy-coquet/ft_irc)
+  
+  [Inception](https://github.com/Jeremy-coquet/Inception)
+  
+  [CPP 05-09](https://github.com/Jeremy-coquet/CPP05-09)
 
 circle 6:
-  [Transcendance]
+  
+  [Transcendance](https://github.com/Jeremy-coquet/Transcendance)
   
