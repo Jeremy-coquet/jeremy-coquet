@@ -15,17 +15,21 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-circle 0: 
+projet perso:
+
+  [portfolio](https://github.com/Jeremy-coquet/portfolio)
+
+cercle 0: 
 
   [libft](https://github.com/Jeremy-coquet/libft)
   
-circle 1:
+cercle 1:
 
   [get_next_line](https://github.com/Jeremy-coquet/Get_next_line)
 
   [ft_printf](https://github.com/Jeremy-coquet/Ft_printf)
   
-circle 2:
+cercle 2:
   
   [push_swap](https://github.com/Jeremy-coquet/push_swap)
   
@@ -33,13 +37,13 @@ circle 2:
   
   [fract-ol](https://github.com/Jeremy-coquet/fract-ol)
   
-circle 3:
+cercle 3:
   
   [Philosophers](https://github.com/Jeremy-coquet/Philosophers)
   
   [Minishell]
-  
-circle 4:
+
+cercle 4:
   
   [NetPractice]
   
@@ -47,7 +51,7 @@ circle 4:
   
   [CPP 00 - 04](https://github.com/Jeremy-coquet/CPP00-04)
 
-circle 5:
+cercle 5:
   
   [ft_irc](https://github.com/Jeremy-coquet/ft_irc)
   
@@ -55,7 +59,7 @@ circle 5:
   
   [CPP 05-09](https://github.com/Jeremy-coquet/CPP05-09)
 
-circle 6:
+cercle 6:
   
   [Transcendance](https://github.com/Jeremy-coquet/Transcendance)
   
