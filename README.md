@@ -7,6 +7,14 @@
 
 ---
 
+### 🎓 **Projets de Spécialisation**
+| **Python Data Science**  |
+|----------------|
+| [Python-0-Starting](https://github.com/Jeremy-coquet/Python-0-starting) • [Python-1-Array](https://github.com/Jeremy-coquet/Python-1-Array) • [Python-2-DataTable](https://github.com/Jeremy-coquet/python-2-DataTable) • [Python-3-OOP](https://github.com/Jeremy-coquet/Python-3-OOP) • [Python-4-DOD](https://github.com/Jeremy-coquet/Python-4-DOD)
+
+
+---
+
 ### 🎓 **Projets 42 - Classés par Cercle**
 | **Cercle**  | **Projets** |
 |------------|------------|
