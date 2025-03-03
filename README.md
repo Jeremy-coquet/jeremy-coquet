@@ -1,8 +1,8 @@
 ## Hi there 👋
 
 ### 🚀 **Projets Personnels**
-| **Projet perso**  | **Lien** |
-|------------|---------|
+| **Projet perso**  |
+|------------|
 | [Portfolio](https://github.com/Jeremy-coquet/portfolio) |
 
 ---
